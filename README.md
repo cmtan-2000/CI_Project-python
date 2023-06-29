@@ -1,4 +1,4 @@
-Before run project, please create the virtual environment in this root project, 
+Before run project, please create the virtual environment in this root project using terminal , 
 
 python3 -m venv .venv
 
